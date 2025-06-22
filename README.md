@@ -19,7 +19,7 @@ A simple command-line Contact Management System built using C++. Supports file p
 g++ main.cpp utils.cpp Validator.cpp -o ContactBook
 ./ContactBook
 ```
-### Option 1: Run Precompiled `.exe`
+### Option 2: Run Precompiled `.exe`
 > Download the `contactBook.exe ` (Optional: `ContactList.txt` for sample data in same directory)  
 > Then double-click or run via terminal:
 ```bash
